@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0288D1</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="site_color">#337ab7</color>
+    <color name="blue">#3F51B5</color>
+    <color name="white">#ffffff</color>
+    <color name="twitter">#1da1f2</color>
+    <color name="facebook">#29487d</color>
+    <color name="purple">#673AB7</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="lime">#CDDC39</color>
+    <color name="orange">#FF9800</color>
+    <color name="light_grey">#757575</color>
+
+    <color name="primary">#000000</color>
+    <color name="primary_dark">#000000</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#000000</color>
+    <color name="primary_text">#f59870</color>
+    <color name="secondary_text">#ffc6c6</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="background">#6163ce</color>
+    <color name="backgroundDark">#353554</color>
+    <color name="windowBackground">#f3f3f3</color>
+    <color name="textGrey">#444</color>
+    <color name="stripe">#2a2765</color>
+    <color name="themeColor">#2a2765</color>
+</resources>

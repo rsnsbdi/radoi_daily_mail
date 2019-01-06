@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_home"
+            android:title="@string/home_nepali" />
+        <item
+            android:id="@+id/nav_pradesh7news"
+            android:icon="@mipmap/ic_news"
+            android:title="@string/pradesh7news_nepali" />
+
+        <item
+            android:id="@+id/nav_foreignemp_form"
+            android:icon="@mipmap/ic_form"
+            android:title="@string/chaso_gunaso" />
+
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@mipmap/ic_about"
+            android:title="@string/aboutus_nepali" />
+
+
+    </group>
+
+</menu>

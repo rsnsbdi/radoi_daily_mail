@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Notifications"
+        android:key="cat">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:title="@string/title_breaking_news"
+            android:key="breaking_news"
+            android:summary="@string/breaking_news_summary"/>
+
+        <MultiSelectListPreference
+            android:defaultValue="@array/empty_array"
+            android:dialogTitle="@string/news_category_title"
+            android:entries="@array/news_category_items"
+            android:entryValues="@array/news_category_id"
+            android:key="news_category"
+            android:summary="@string/summary_news_category"
+            android:title="@string/news_category_title" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

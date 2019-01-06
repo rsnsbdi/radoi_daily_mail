@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_134ed7cadd9d0ca1bbfce4e1f6d31324eaa41249\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\d8bdaccb58d5b46c2ff05447d13afe73aaf7a2b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30cbc9b94a9a9e3c5d4252fde59e8db066460917">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277471eea447926fa65339139a9106ebd35d1da5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\2f27687ff38f329adbc8178c0c37673998dbdd26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c257801a8f17ba722a2658c3f4e799c395c5bc0">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0998599033d34b16e387f975c1b805ab159c358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c896c60cdf79155976887c8e929a9811860fced1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\fabcace8c22320671d79b426544401a58e5bd844\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04ce8846fd23e2a005202e392a2e74545fff1fed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_2330a984aca70460e8c1b94dd11d43489ceb6d4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08cd52ebcf80ec6c77b2aee0d55d16aab4bcb8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_6f02b753e088e7efd62490b387b77057a906aae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21e307b0d9d7ec8f76de063cb7533eb54011564c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\3d6f96b5fb279177c23eed2570fccea0385664c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1924800919934ab48f0d740526db20725983d840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\aabaf1ba8be05352748c0b5215fcb94147d07608\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08ea6894d5a1465bcd15068ced7d54766b38fc30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.1.1\5cd91fd014f5b72292f959748c20a2cefefae77d\eventbus-3.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cd91fd014f5b72292f959748c20a2cefefae77d">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.1.1_6058bbdee58e662b951300315199769a77695f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.flurry.android\analytics\8.1.0\eed5bd6d387be5c7122b15685950cde410d19a24\analytics-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eed5bd6d387be5c7122b15685950cde410d19a24">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\analytics-8.1.0_d1504ad6ac82993de3df192ad2ce7369e44a4b5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\libs\aacdecoder-android-0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43fc2f0e7556b0a743cece06945b9eff5c241499">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\2\aacdecoder-android-0.8_f6a462fcb76480b7052a53da1629a653ee7f359e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_a998ab8484583da482cf11eebb012f3145cf589a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\1ee848bfbdc7e05fb955de6c9b5244509bd8b149\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_102b29bfc56733397990e6e1cec1fed77f64bd3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\d21bcfc10d841e6b52eb7295e69033a7e500a9a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83afef07fa5f9e038372dc4b6be6636946f8b9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_350044eb3ca80606c8e65895372dcb7d72d24719\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\activeandroid-3.1.0-SNAPSHOT_e34a6529995fface75cd84acbe2ac70e56954ea4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_553973c3d071e6fa2f270e8479abadaf4508ddc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\c17ab6e8c8d047dfe97a667f75a92f72069c15f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb21c44f04a700d3a9f7376d4753ea848e5832c4">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04873f1adbeb275b77503f0f5717d68bc7a2f537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_5de90db20f3a123b52b660b04df01f5628258c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_a0f0d06d77ffd607bf8177c9bd4cfcca8d679b5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\b0d9c52080f48d98c3100db4580046c391a85ccf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fab3c7faab3bc30df0fbf2cbebfcb21753c95260">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24158a689b2683e7cb2eadc50b10d00933d9eccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\470ca08287643797e61be58e5d1f053dd9cbee5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5263b8621cd9df908cf0315e09aaf5fcf7eaf416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.flurry.android\ads\8.1.0\463e128a104e91091371c7336c0c7e23d18fa6f5\ads-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="463e128a104e91091371c7336c0c7e23d18fa6f5">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\ads-8.1.0_2a8bfa6f5b42255abfee986965cf7f4f6400f155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\181898330e00e445d074118b1f82cb33ab538175\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b475f641ce78e8713c73882618e38d00981acda3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\ea1d1a415870257355e7b4891298da659824e853\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79d618ba6bd0d7e61f5cb8c3a958cde5cf02efcd">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfc82654a2c7e2964031cb638639a6ae0c553ac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b287eedf93d34ded08d712e8b7ae7e558d75ff16">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_95ca04e1cb56de2b42fc559864e2117dcf4c2566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\58ac484a01d708103a36b497bd0e6083c86f6faf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d68a8fd0dd5d9a2b4e415a8411bf8b6aa50542f">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28990231e71b47f7dd8876471a4708b71b12583c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9852145e4bd9219b54c57d8591ae45a518e9a662\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.thefinestartist\annotations\0.9.0\b69d23b00ca5fd30feea91ab4b24a192d6b928ef\annotations-0.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b69d23b00ca5fd30feea91ab4b24a192d6b928ef">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-0.9.0_09c11dd2c75fb00d169731a13044fe1388d72fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\5c6662552baad1c0c898cb96b3dee09355c9190b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad0b790c529488b2ce11ffcd474ea1029d6348c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_161c3fe028b24d2538b6146066b83a9326badf6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\998b764a703083f16f1734bcb78dc078eacba361\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5734c03faa42bb254d3f05d656f7a7036cb096b6">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12430d3949da51665f6cf299796f8b73e558e8a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\01aca2d8b64d8c8dcda5bd50a3c513d702a16d73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0c36b878b33b3392cb84865ed166562624b1cd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-19.0_69b9dcb082a18d3cce0a4dd8379b289b03788ec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bb598cf6d558b6bc76f4e20a4ebf725fab8c3c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\e9298b7478fbbf0e5ad58ac02bd8e68deacae5e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c0993735ca50b8be329c1b359bda1562b391902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_e8568657e5a3a2796734e630b8e4e82fc8febcb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f134745f2f43710f50cf2b6cddad8f6df7754c59\classes.dex" />
+    </item>
+
+</items>

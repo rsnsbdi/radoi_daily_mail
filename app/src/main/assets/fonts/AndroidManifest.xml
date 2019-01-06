@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.softnep.radiodailymail">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/app_logo_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:largeHeap="true"
+        android:hardwareAccelerated="false">
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data android:name="AA_DB_NAME" android:value="radiodailymail.db" />
+        <meta-data android:name="AA_DB_VERSION" android:value="3" />
+
+        <service android:name=".notification.FirebaseMessengingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <service android:name=".notification.FirebaseInstanceIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+
+        <activity
+            android:name=".activity.Activity_NavigationDrawer"
+            android:screenOrientation="portrait"
+            android:launchMode="singleInstance">
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize|adjustPan"
+            android:theme="@android:style/Theme.Translucent"
+            />
+
+        <activity
+        android:name="com.thefinestartist.finestwebview.FinestWebViewActivity"
+        android:configChanges="keyboardHidden|orientation|screenSize"
+        android:screenOrientation="sensor"
+        android:theme="@style/FinestWebViewTheme.Light" />
+
+
+        <activity android:name=".activity.Activity_Pradesh7News_Description"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".activity.Activity_NationalNews_Description"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".activity.Activity_InternationalNews_Description"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".activity.Activity_PoliticalNews_Description"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".activity.Activity_EntertainmentNews_Description"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".activity.Activity_EconomicNews_Description"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".radioPlayer.Activity_Online_Radio"
+            android:screenOrientation="portrait" />
+
+        <activity android:name=".activity.Activity_Settings"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:label="@string/settings"
+            android:theme="@style/Settings.Theme"/>
+
+        <receiver
+            android:name=".radioPlayer.NotificationActionButtonReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.softnep.radiodailymail.ACTION_CLOSE" />
+                <action android:name="com.softnep.radiodailymail.ACTION_PLAY" />
+                <action android:name="com.softnep.radiodailymail.ACTION_PAUSE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".radioPlayer.MusicIntentReceiver" >
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".radioPlayer.KillNotificationsService" >
+        </service>
+
+    </application>
+
+</manifest>

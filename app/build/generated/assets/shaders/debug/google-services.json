@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "64796058681",
+    "firebase_url": "https://radio-daily-mail.firebaseio.com",
+    "project_id": "radio-daily-mail",
+    "storage_bucket": "radio-daily-mail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64796058681:android:41491deb5d76e985",
+        "android_client_info": {
+          "package_name": "com.example.admin.radiodailymail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64796058681-2f5ir5ie0ddl1ggpd9jd33acuckfnjdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmj-oQ9BpVgkM57ypMssLnwXRaLb381A0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64796058681:android:1f42fa7948cdeed4",
+        "android_client_info": {
+          "package_name": "com.softnep.radiodailymail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64796058681-2f5ir5ie0ddl1ggpd9jd33acuckfnjdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmj-oQ9BpVgkM57ypMssLnwXRaLb381A0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

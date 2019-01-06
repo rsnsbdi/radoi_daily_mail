@@ -1,0 +1,444 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:11:22-63
+application
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:13:5-117:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\e9298b7478fbbf0e5ad58ac02bd8e68deacae5e0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\ranjan\.android\build-cache\b0d9c52080f48d98c3100db4580046c391a85ccf\output\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.0] C:\Users\ranjan\.android\build-cache\fabcace8c22320671d79b426544401a58e5bd844\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.0] C:\Users\ranjan\.android\build-cache\aabaf1ba8be05352748c0b5215fcb94147d07608\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\ranjan\.android\build-cache\470ca08287643797e61be58e5d1f053dd9cbee5e\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\ranjan\.android\build-cache\684366094c661f455a6be41c6f9326c44833edbf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ranjan\.android\build-cache\fe9c4022127fda1eee7dff058d6c6ff65a93eac1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ranjan\.android\build-cache\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ranjan\.android\build-cache\923c6a3df55fca7223b36ebd8512b0a4d7783f27\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ranjan\.android\build-cache\ac44984b7989c56557cf8017b5b29fe63defdee3\output\AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ranjan\.android\build-cache\01aca2d8b64d8c8dcda5bd50a3c513d702a16d73\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.0] C:\Users\ranjan\.android\build-cache\d7b62987431e0c9de20293a3f3d44502000e6ade\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.0] C:\Users\ranjan\.android\build-cache\181898330e00e445d074118b1f82cb33ab538175\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\ranjan\.android\build-cache\5c6662552baad1c0c898cb96b3dee09355c9190b\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ranjan\.android\build-cache\0627d7cf0b643424d0242305ccb9e1037b2ddcb6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ranjan\.android\build-cache\8a94ee33aaff1ed52b5aba9f39f89baba0f93272\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ranjan\.android\build-cache\28e36abe34fcafffa08fe23ed61ba26013641c4c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ranjan\.android\build-cache\7bc31245a238ac390dbb98c21f01df60a8544012\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ranjan\.android\build-cache\019327640bfa757d8cd547834646eff1d6db228d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ranjan\.android\build-cache\118b4386121f23664253bf636ad71921facedb6e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:18:9-35
+	android:hardwareAccelerated
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:21:9-44
+	android:allowBackup
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:16:9-49
+	android:largeHeap
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:20:9-33
+	android:theme
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:14:9-38
+meta-data#com.google.android.gms.version
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\ranjan\.android\build-cache\5c6662552baad1c0c898cb96b3dee09355c9190b\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:24:13-58
+meta-data#AA_DB_NAME
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:27:9-82
+	android:value
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:27:46-79
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:27:20-45
+meta-data#AA_DB_VERSION
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:28:9-69
+	android:value
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:28:49-66
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:28:20-48
+service#com.softnep.radiodailymail.notification.FirebaseMessengingService
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:30:9-34:19
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:30:18-72
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:31:13-33:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:32:25-75
+service#com.softnep.radiodailymail.notification.FirebaseInstanceIdService
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:36:9-40:19
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:36:18-72
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:37:13-39:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:38:17-80
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:38:25-77
+activity#com.softnep.radiodailymail.activity.Activity_NavigationDrawer
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:43:9-56:20
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:46:13-48
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:44:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:48:13-54:29
+action#android.intent.action.MAIN
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:50:17-68
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:58:9-63:15
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:25:9-232
+	android:windowSoftInputMode
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:61:13-83
+	android:configChanges
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:60:13-122
+	android:theme
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:62:13-61
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:59:13-65
+activity#com.thefinestartist.finestwebview.FinestWebViewActivity
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:65:9-69:59
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:68:9-43
+	android:configChanges
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:67:9-70
+	android:theme
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:69:9-56
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:66:9-79
+activity#com.softnep.radiodailymail.activity.Activity_Pradesh7News_Description
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:72:9-73:51
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:72:19-77
+activity#com.softnep.radiodailymail.activity.Activity_NationalNews_Description
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:75:9-76:51
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:75:19-77
+activity#com.softnep.radiodailymail.activity.Activity_InternationalNews_Description
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:78:9-79:51
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:78:19-82
+activity#com.softnep.radiodailymail.activity.Activity_PoliticalNews_Description
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:81:9-82:51
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:81:19-78
+activity#com.softnep.radiodailymail.activity.Activity_EntertainmentNews_Description
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:84:9-85:51
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:84:19-82
+activity#com.softnep.radiodailymail.activity.Activity_EconomicNews_Description
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:87:9-88:51
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:87:19-77
+activity#com.softnep.radiodailymail.radioPlayer.Activity_Online_Radio
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:90:9-91:52
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:90:19-68
+activity#com.softnep.radiodailymail.activity.Activity_Settings
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:93:9-97:52
+	android:screenOrientation
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:96:13-45
+	android:launchMode
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:94:13-48
+	android:theme
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:97:13-50
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:93:19-61
+receiver#com.softnep.radiodailymail.radioPlayer.NotificationActionButtonReceiver
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:99:9-107:20
+	android:exported
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:100:13-73
+intent-filter#com.softnep.radiodailymail.ACTION_CLOSE+com.softnep.radiodailymail.ACTION_PAUSE+com.softnep.radiodailymail.ACTION_PLAY
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:102:13-106:29
+action#com.softnep.radiodailymail.ACTION_CLOSE
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:103:17-82
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:103:25-79
+action#com.softnep.radiodailymail.ACTION_PLAY
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:104:17-81
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:104:25-78
+action#com.softnep.radiodailymail.ACTION_PAUSE
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:105:17-82
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:105:25-79
+receiver#com.softnep.radiodailymail.radioPlayer.MusicIntentReceiver
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:108:9-112:20
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:108:19-66
+intent-filter#android.media.AUDIO_BECOMING_NOISY
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:109:13-111:29
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:110:17-77
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:110:25-74
+service#com.softnep.radiodailymail.radioPlayer.KillNotificationsService
+ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:114:9-115:19
+	android:name
+		ADDED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml:114:18-70
+uses-sdk
+INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\e9298b7478fbbf0e5ad58ac02bd8e68deacae5e0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ranjan\.android\build-cache\d839fe6ce33b13d0d0ae315c4ea3cb33df3cba7f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\ranjan\.android\build-cache\b0d9c52080f48d98c3100db4580046c391a85ccf\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.basgeekball:awesome-validation:1.3] C:\Users\ranjan\.android\build-cache\c17ab6e8c8d047dfe97a667f75a92f72069c15f7\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\ranjan\.android\build-cache\1ee848bfbdc7e05fb955de6c9b5244509bd8b149\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-ads:10.0.0] C:\Users\ranjan\.android\build-cache\3d6f96b5fb279177c23eed2570fccea0385664c6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.0] C:\Users\ranjan\.android\build-cache\fabcace8c22320671d79b426544401a58e5bd844\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.0] C:\Users\ranjan\.android\build-cache\aabaf1ba8be05352748c0b5215fcb94147d07608\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\ranjan\.android\build-cache\470ca08287643797e61be58e5d1f053dd9cbee5e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.orhanobut:hawk:2.0.1] C:\Users\ranjan\.android\build-cache\58ac484a01d708103a36b497bd0e6083c86f6faf\output\AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.conceal:conceal:1.1.3] C:\Users\ranjan\.android\build-cache\d8bdaccb58d5b46c2ff05447d13afe73aaf7a2b1\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.thefinestartist:finestwebview:1.2.7] C:\Users\ranjan\.android\build-cache\ea1d1a415870257355e7b4891298da659824e853\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\ranjan\.android\build-cache\684366094c661f455a6be41c6f9326c44833edbf\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\a026f093a8d11743392cd2230f8759efefc0aa40\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ranjan\.android\build-cache\fe9c4022127fda1eee7dff058d6c6ff65a93eac1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.thefinestartist:utils:0.9.0] C:\Users\ranjan\.android\build-cache\2f27687ff38f329adbc8178c0c37673998dbdd26\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\ranjan\.android\build-cache\998b764a703083f16f1734bcb78dc078eacba361\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ranjan\.android\build-cache\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ranjan\.android\build-cache\923c6a3df55fca7223b36ebd8512b0a4d7783f27\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ranjan\.android\build-cache\ac44984b7989c56557cf8017b5b29fe63defdee3\output\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ranjan\.android\build-cache\01aca2d8b64d8c8dcda5bd50a3c513d702a16d73\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.0.0] C:\Users\ranjan\.android\build-cache\d7b62987431e0c9de20293a3f3d44502000e6ade\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.0] C:\Users\ranjan\.android\build-cache\181898330e00e445d074118b1f82cb33ab538175\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.0] C:\Users\ranjan\.android\build-cache\5c6662552baad1c0c898cb96b3dee09355c9190b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ranjan\.android\build-cache\0627d7cf0b643424d0242305ccb9e1037b2ddcb6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ranjan\.android\build-cache\8a94ee33aaff1ed52b5aba9f39f89baba0f93272\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ranjan\.android\build-cache\28e36abe34fcafffa08fe23ed61ba26013641c4c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ranjan\.android\build-cache\7bc31245a238ac390dbb98c21f01df60a8544012\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ranjan\.android\build-cache\019327640bfa757d8cd547834646eff1d6db228d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ranjan\.android\build-cache\118b4386121f23664253bf636ad71921facedb6e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ranjan\.android\build-cache\684366094c661f455a6be41c6f9326c44833edbf\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\prem_basnet-radio-daily-mail-app-a3685d4bdb47\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\e9298b7478fbbf0e5ad58ac02bd8e68deacae5e0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\ranjan\.android\build-cache\684366094c661f455a6be41c6f9326c44833edbf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\a026f093a8d11743392cd2230f8759efefc0aa40\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ranjan\.android\build-cache\fe9c4022127fda1eee7dff058d6c6ff65a93eac1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ranjan\.android\build-cache\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ranjan\.android\build-cache\923c6a3df55fca7223b36ebd8512b0a4d7783f27\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ranjan\.android\build-cache\ac44984b7989c56557cf8017b5b29fe63defdee3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ranjan\.android\build-cache\0627d7cf0b643424d0242305ccb9e1037b2ddcb6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ranjan\.android\build-cache\8a94ee33aaff1ed52b5aba9f39f89baba0f93272\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ranjan\.android\build-cache\28e36abe34fcafffa08fe23ed61ba26013641c4c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ranjan\.android\build-cache\7bc31245a238ac390dbb98c21f01df60a8544012\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ranjan\.android\build-cache\019327640bfa757d8cd547834646eff1d6db228d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ranjan\.android\build-cache\118b4386121f23664253bf636ad71921facedb6e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\e9298b7478fbbf0e5ad58ac02bd8e68deacae5e0\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\ranjan\.android\build-cache\e9298b7478fbbf0e5ad58ac02bd8e68deacae5e0\output\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.0] C:\Users\ranjan\.android\build-cache\9622ae2510034c5bb35624a2680a909f3a1b5daa\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.0] C:\Users\ranjan\.android\build-cache\680948704e648d9e950505b98b299fb8d13e93e6\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\ranjan\.android\build-cache\470ca08287643797e61be58e5d1f053dd9cbee5e\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\ranjan\.android\build-cache\470ca08287643797e61be58e5d1f053dd9cbee5e\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.0] C:\Users\ranjan\.android\build-cache\470ca08287643797e61be58e5d1f053dd9cbee5e\output\AndroidManifest.xml:23:18-87
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.0] C:\Users\ranjan\.android\build-cache\69ba780e95acbd1daccb4a6dfd504085425dc622\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.0] C:\Users\ranjan\.android\build-cache\5e7f0aaf72f61f967f350200ebe0b30f47dca633\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.0] C:\Users\ranjan\.android\build-cache\cd15c67c01d3540f4e8dcbc6f1bb83983e26bed5\output\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.0] C:\Users\ranjan\.android\build-cache\61e4f70a8ef6bc61ccd6ded0cfe7a8ff1a29c706\output\AndroidManifest.xml:6:79-143

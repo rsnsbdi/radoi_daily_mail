@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Radio Daily Mail</string>
+
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="custom_theme">Custom Theme</string>
+
+    <string name="long_des">Radio Daily Mail 94.6 Mhz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="home_nepali">गृहपृष्‍ठ</string>
+    <string name="pradesh7news">Pradesh 7 News</string>
+    <string name="pradesh7news_nepali">प्रदेश ७ समाचार</string>
+    <string name="nationalnews">राष्ट्रिय</string>
+    <string name="internationalnews">अन्तराष्ट्रिय</string>
+    <string name="politicalnews">राजनीति</string>
+    <string name="entertainmentnews">मनोरन्जन</string>
+    <string name="economicnews">अर्थ</string>
+    <string name="desh_pradesh">Desh Pradesh</string>
+    <string name="desh_pradesh_nepali">देश प्रदेश</string>
+    <string name="chaso_gunaso">चासो गुनासो</string>
+    <string name="online_radio">Online Radio</string>
+    <string name="online_radio_nepali">अनलाइन रेडियो</string>
+    <string name="about_us">About Us</string>
+    <string name="aboutus_nepali">हाम्रो बारेमा</string>
+    <string name="settings">Settings</string>
+    <string name="settings_nepali">सेटीङस</string>
+    <string name="site_email">radio.dailymail@gmail.com</string>
+
+    <string name="form_title">वैदेशिक रोजगार अनुभव/समस्या हामीसंग बाड्नुहोस</string>
+    <string name="name_nepali">नाम</string>
+    <string name="country_nepali">काम गरिरहेको देश</string>
+    <string name="problem_nepali">अनुभव/समस्या</string>
+    <string name="contact_nepali">सम्पर्क नम्बर</string>
+    <string name="email_nepali">इमेल</string>
+    <string name="submit">Submit</string>
+
+    <string name="close_radio">Radio Closed!!!</string>
+    <string name="playing_radio">Radio Now Playing!!!</string>
+    <string name="cannot_play_radio">Cannot Play Radio Now!!!</string>
+    <string name="radio_not_started">Radio Not Started!!!</string>
+    <string name="radio_stop">Radio Stopped.</string>
+    <string name="radio_off">Radio is off.</string>
+    <string name="onair">On Air.</string>
+    <string name="buffering">Buffering</string>
+
+    <string name="FLURRY_API_KEY">4ZYYPNBPHQC6ZTSXBS8T</string>
+
+    <string name="news_description">News Description</string>
+    <string name="news_description_nepali">समाचारको पूर्ण  विवरण</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="facebook_app_id">144212132882032</string>
+
+        <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+        <string name="btn_fullscreen_ad">Show Fullscreen Ad</string>
+
+        <!-- AdMob ad unit IDs -->
+        <string name="banner_home_footer">ca-app-pub-8558316676313514/2708391848</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+    <string name="name_error">Name is required</string>
+    <string name="country_error">Country is required</string>
+    <string name="contact_error">Contact Number is required</string>
+    <string name="problem_error">Problem is required</string>
+    <string name="email_error">Email is required</string>
+    <string name="email_valid_error">Enter a Valid Email</string>
+    <string name="contact_length_error">Mobile Number must be of 10 Numbers</string>
+
+    <string name="nepali_name_error">कृपया नाम लेख्नुहोस</string>
+    <string name="nepali_country_error">कृपया काम गरिरहेको देशको नाम लेख्नुहोस</string>
+    <string name="nepali_contact_error">कृपया आफ्नो फोन नम्बर (10 नम्बर) लेख्नुहोस</string>
+    <string name="nepali_problem_error">कृपया आफ्नो अनुभव/समस्या लेख्नुहोस</string>
+    <string name="nepali_email_error">कृपया सहि इमेल लेख्नुहोस</string>
+
+    <string name="about_app">Ujyaalo is the brand name of Ujyaalo Radio Network, Ujyaalo Online and Ujyaalo Mobile Applications with multiple media platform. Ujyaalo is the largest Radio Network of Nepal with more than 220 partner radio stations across the country with more than 15 million listeners. Ujyaalo Online is visited by more than three million times per month by its one million plus unique visitors.\n\n
+        Ujyaalo has more than the 70k mobile application (android and iOS) users who get access to each and every material published and broadcasted through radio and online.Ujyaalo Radio Network reaches to more than 80 percent of geographical areas and 80 percent population of Nepal. Due to the geographical difficulties, there are many areas in Nepal where print media and television are still out of reach.\n\n
+        Our network avails people of such geographical regions with latest news and information.At the moment, 45 highly qualified personnel work at Ujyaalo in different sections (online, radio and mobile) and departments. Apart from staffs in central level (based in Kathmandu), out of 75 districts in Nepal, Ujyaalo has 70 district reporters representing each district.  They are entitled to report / cover
+        each and every events/incident taking place in respective districts and also neighbouring districts sometimes.\n\n  Ujyaalo has gained such goodwill over the time that aspiring journalistsand amateurs see Ujyaalo as one of the best media platforms to expand their skills and knowledge and uplift their career in the field of journalism. Ujyaalo owns a four and a half storied building with fully equipped
+        four digital and analogue studios (including video shooting facilities) to produce and distribute radio and online materials. Also has a Mobile Broadcast Van which is useful in broadcasting live orrecorded audios from the field using VSAT.\n\n  Ujyaalo is also used to with technology like Interactive Voice Response (IVR) System and SMS service. And has also kept pace with Social Media.
+        It has also adopted Toll-Free Telephone service for its audiences, readers, and well-wishers. All these facilities have enhanced the performance and have strengthened the presence of Ujyaalo.\n\n The building is built specially for radio stations with state of the art technology, including earthquake resistance and runs with sustainable water collection and power supply system with the solar panel, installed on
+        the roof of the building. Ujyaalo has been using the solar system to avoid the disturbances in power supply due to load shedding.  The government provided electricity andgenerator are kept stand by as back of power source. Four recording studios, more than 50 computers, digital recorders, video cameras, satellite and FM transmission equipment, vehicles are well placed for the smooth operation of Ujyaalo.</string>
+
+    <string name="share">Share</string>
+    <string name="view_in_web">View in Web</string>
+    <string name="breaking_news">breaking_news</string>
+    <string name="title_breaking_news">Breaking News</string>
+    <string name="news_category_title">News Category</string>
+
+    <string name="summary_news_category">Select News Category for Notification</string>
+    <string name="key_news_category">key_news_category</string>
+    <string name="notification">notification</string>
+    <string name="title_notification">Notification</string>
+    <string name="key_breaking_news">breaking_news</string>
+    <string name="breaking_news_summary">Breaking News Notification</string>
+    <string name="breaking_news_notification_on">Breaking News Notification ON</string>
+    <string name="breaking_news_notification_off">Breaking News Notification OFF</string>
+    <string name="testing_kotlin">Testing Kotlin</string>
+    <string name="radio_paused">Radio Paused!!!</string>
+
+    <string name="radio_name" translatable="false">Daily Mail FM 94.6 Mhz</string>
+    <string name="address" translatable="false">Mainroad, Dhangadi&#8211;4,Kailali\n Phone: 091&#8211;525553\n  Email: radio.dailymail@gmail.com\nWebsite: www.avenepal.com</string>
+    <string name="about" translatable="false">We are updating the content soon!</string>
+    <string name="radio_url" translatable="false">http://streaming.softnep.net:8055/</string>
+
+</resources>

@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_light_theme.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\selector_light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\back_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_facebook.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_fill.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\progress_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_pause.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\player_pause.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_black_cal.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\small_black_cal.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_play.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_play.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_play.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\player_play.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_pause.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\btn_play_pause.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_news_logo_background.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\app_news_logo_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_play.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\player_play.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_pause.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_pause.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_button_filled.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\pause_button_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_color.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\drawer_item_color.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_pause.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\player_pause.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_facebook.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_fill.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\background_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_plus.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_plus.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\back_vector.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_pause_pressed.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_news_logo_background.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\app_news_logo_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_clock.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\news_clock.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\forward_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_bg.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\btn_select_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dark_theme.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\selector_dark_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_radio.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\icon_radio.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_close.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_close.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_item_color.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\drawer_item_color.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\close_vector.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_bg.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\btn_select_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_light_theme.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\selector_light_theme.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_social_fb.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_social_fb.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_play.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_play.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_radio.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\icon_radio.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_social_fb.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_social_fb.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_black.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\cal_black.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_logo.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\radio_logo.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_play.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_play.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_normal.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_pause_pressed.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_minus.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\forward_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\more_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_social_tw.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_social_tw.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_social_tw.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_social_tw.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_play.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_play.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_black_cal.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\small_black_cal.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_blue.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\cal_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_close.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_close.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_button_filled.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\pause_button_filled.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_black.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\cal_black.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play_pause.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\btn_play_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_clock.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\news_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_fill.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\background_fill.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_plus.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_pause.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_pause.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\more_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button_filled.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\play_button_filled.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_logo.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\radio_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_play_pressed.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_play_pressed.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_play_pressed.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_play_pressed.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_minus.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button_filled.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\play_button_filled.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dark_theme.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\selector_dark_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sn_pause.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\sn_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\680948704e648d9e950505b98b299fb8d13e93e6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_pause.png",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\img_btn_pause.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_fill.xml",
+        "source": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\progress_fill.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_blue.png",
+        "source": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\src\\main\\res\\drawable\\cal_blue.png"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\684366094c661f455a6be41c6f9326c44833edbf\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_vector.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\ea1d1a415870257355e7b4891298da659824e853\\output\\res\\drawable\\close_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ranjan\\Desktop\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ranjan\\.android\\build-cache\\8e68c3e063d4acb3fbc25a19a84ea3006cc9c357\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]

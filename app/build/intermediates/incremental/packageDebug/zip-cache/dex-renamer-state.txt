@@ -1,0 +1,7 @@
+#Wed Jan 03 18:43:04 NPT 2018
+base.0=E\:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_95ca04e1cb56de2b42fc559864e2117dcf4c2566
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bb598cf6d558b6bc76f4e20a4ebf725fab8c3c71\\classes.dex
+base.1=E\:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bb598cf6d558b6bc76f4e20a4ebf725fab8c3c71
+file.0=E\:\\projects\\prem_basnet-radio-daily-mail-app-a3685d4bdb47\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_95ca04e1cb56de2b42fc559864e2117dcf4c2566\\classes.dex
